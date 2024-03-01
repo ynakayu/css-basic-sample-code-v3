@@ -1,1 +1,7 @@
-# css-sample-code-v3
+Udemy、Proglus（プログラス）にて公開中の「CSS入門」コースのサンプルコードです。
+
+該当コースの受講生の方が、個人的な学習の範囲内でご利用いただけます。
+
+無断転載を禁止します。
+
+(c)2024 Yuta Nakamura, Proglus.
